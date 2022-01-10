@@ -2,7 +2,7 @@
 /*
 * Plugin Name: admin menu
 * Description: defines the admin menu based on users and creates dashboard widgets.
-* Version: 1.0
+* Version: 1.1
 * Author: Jake Price | JP Creative Media
 * Author URI: https://jpcreative.ca/
 * License: GPLv2
@@ -27,7 +27,7 @@ function custom_dashboard_widgets() {
 function custom_dashboard_contact() {
 
    // content
-   echo '<p>welcome to your website!<br><br>need help? contact me at: <a href="mailto:support@jpcreativemedia.ca">support@jpcreativemedia.ca</a>.</p>';
+   echo '<p>welcome to your website!<br><br>need help? contact me at: <a href="mailto:info@jpcreativemedia.ca">info@jpcreativemedia.ca</a>.</p>';
 }
 
 /* debug admin menu
